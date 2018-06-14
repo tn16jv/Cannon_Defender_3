@@ -1,5 +1,5 @@
 # Cannon Defender 3
-A top-down 2D hack and slash RPG game made in Java. I made this many years ago, so the source code isn't even worthy of being called trash.
+A top-down 2D hack and slash RPG game made in Java. I made this in my last year of high school, so the source code isn't even worthy of being called trash.
 
 You control a warrior with various abilities and try to survive as long as possible, while accumulating as
 many points as possible. There will be hordes of powerful enemies and a boss that will hunt you down.
