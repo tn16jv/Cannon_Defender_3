@@ -1,6 +1,5 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * Defines the main game loop along with the behaviour of the entities.
  */
 
 import java.awt.Image;

@@ -1,13 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * Code that specifies what is put into the menu. This also defines the frame that the game is played in.
  */
 
-/**
- *
- * @author User
- */
 import java.awt.FlowLayout;
 import java.awt.Graphics;
 import java.awt.Graphics2D;

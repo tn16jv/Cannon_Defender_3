@@ -1,13 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * Defines an interface for the Sprite. It is an entity that will store its image along with its coordinates and
+ * other behaviours typical of an enemy.
  */
 
-/**
- *
- * @author User
- */
 import java.awt.Image;
 
 public class Sprite {

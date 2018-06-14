@@ -1,4 +1,7 @@
-//Author: ThaiBinh Nguyen
+/**
+ * Author: ThaiBinh Nguyen
+ * This is the main driver of the game.
+ */
 
 import javax.swing.JFrame;
 

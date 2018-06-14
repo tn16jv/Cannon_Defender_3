@@ -1,15 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * Defines the Sprite entity of the boss.
  */
 
 import javax.swing.ImageIcon;
 
-/**
- *
- * @author User
- */
 public class Boss extends Sprite {
 
     private final String BossDown1 = "/Boss Down 1.png"; //Declares string to image location

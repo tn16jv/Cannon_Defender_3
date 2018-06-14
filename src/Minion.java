@@ -1,12 +1,7 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * Defines the Sprite entity of common minions.
  */
 
-/**
- *
- * @author nguyentha
- */
 import javax.swing.ImageIcon;
 
 public class Minion extends Sprite {
