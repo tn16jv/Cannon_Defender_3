@@ -15,10 +15,10 @@ you some of your points.
 
 &nbsp;
 <p align = "center">
-            <img src="https://github.com/tn16jv/Cannon_Defender_3/tree/master/the_showcase_images/gameplay.PNG" alt="Gameplay">
+            <img src="https://github.com/tn16jv/Cannon_Defender_3/blob/master/the_showcase_images/gameplay.png" alt="Gameplay">
 </p>
 
 &nbsp;
 <p align = "center">
-            <img src="https://github.com/tn16jv/Cannon_Defender_3/tree/master/the_showcase_images/wizard.PNG" alt="Wizard">
+            <img src="https://github.com/tn16jv/Cannon_Defender_3/blob/master/the_showcase_images/wizard.PNG" alt="Wizard">
 </p>
